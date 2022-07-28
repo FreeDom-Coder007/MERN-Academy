@@ -21,6 +21,13 @@
 .bg-light-sky{
     background-color: #F4FAFD;
 }
+
+.px-100px{
+    padding: auto 100px;
+}
+.px-200px{
+    padding: auto 200px;
+}
 @media screen and (max-width: 576px) {
     .sm-hidden{
       display: none;
