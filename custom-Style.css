@@ -1,8 +1,26 @@
+.text-light-blue{
+    color: #289BDE;
+}
+.text-dark-gray{
+    color: #E8E8E8;
+}
 .light-black{
     color: #4A4A4A;
 }
 .light-dark{
     color: #817f7f;
+}
+.bg-light-black{
+    background-color: #4A4A4A;
+}
+.bg-light-blue{
+    background-color: #289BDE;
+}
+.bg-light-sky{
+    background-color: #F4FAFD;
+}
+.bg-ultra-dark{
+    background-color: #161616;
 }
 .margin-100px{
     margin-left: 100px;
@@ -11,15 +29,6 @@
 .btn-outline-light-blue{
     border: 2px solid #289BDE;
     color: #289BDE;
-}
-.text-light-blue{
-    color: #289BDE;
-}
-.bg-light-blue{
-    background-color: #289BDE;
-}
-.bg-light-sky{
-    background-color: #F4FAFD;
 }
 
 .px-100px{
