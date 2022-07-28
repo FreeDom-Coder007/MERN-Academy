@@ -7,3 +7,22 @@
 .margin-100px{
     margin-left: 100px;
 }
+
+.btn-outline-light-blue{
+    border: 2px solid #289BDE;
+    color: #289BDE;
+}
+.text-light-blue{
+    color: #289BDE;
+}
+.bg-light-blue{
+    background-color: #289BDE;
+}
+.bg-light-sky{
+    background-color: #F4FAFD;
+}
+@media screen and (max-width: 576px) {
+    .sm-hidden{
+      display: none;
+    }
+}
